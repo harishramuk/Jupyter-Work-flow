@@ -1,2 +1,2 @@
-# Jupyter-Work-flow
+# Jupyter-study-material
 Jupyter Work flow example
